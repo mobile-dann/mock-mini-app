@@ -1,0 +1,8 @@
+{
+   "permission":[
+      "READ_WALLET",
+      "WRITE_WALLET"
+   ],
+   "expiredTime":"2023-03-16T09:58:19+00:00",
+   "appId":"miniapp1"
+}
